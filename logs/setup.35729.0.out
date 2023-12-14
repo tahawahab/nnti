@@ -1,0 +1,41 @@
+'PROJECT_ROOT=/home/neuronet_team112/torch-condor-template'
+Installing miniconda at '/home/neuronet_team112/miniconda3'
+PREFIX=/home/neuronet_team112/miniconda3
+Unpacking payload ...
+
+Installing base environment...
+
+
+Downloading and Extracting Packages
+
+
+Downloading and Extracting Packages
+
+Preparing transaction: ...working... done
+Executing transaction: ...working... done
+installation finished.
+Creating environment 'nnti' based on '/home/neuronet_team112/torch-condor-template/environment.yml'.
+Channels:
+ - pytorch
+ - nvidia
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+Downloading and Extracting Packages: ...working... done
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate nnti
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Environment 'nnti' created successfully
+To add conda to you path modify ~/.bashrc and add export PATH=/home/neuronet_team112/miniconda3/bin:/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin

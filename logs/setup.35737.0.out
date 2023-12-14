@@ -1,0 +1,22 @@
+'PROJECT_ROOT=/home/neuronet_team112/torch-condor-template'
+Miniconda is already installed at '/home/neuronet_team112/miniconda3'
+An environment with this name already exists. Updating instead.
+Channels:
+ - pytorch
+ - nvidia
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate nnti
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Environment 'nnti' updated successfully
+To add conda to you path modify ~/.bashrc and add export PATH=/home/neuronet_team112/miniconda3/bin:/opt/conda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
